@@ -17,6 +17,5 @@
     ],
     "TXT": ["v=spf1 include:zoho.com ~all"]
   },
- },
  "proxied": false
 }
