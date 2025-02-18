@@ -4,7 +4,19 @@
    "email": "matiflin23@gmail.com"
  },
  "records": {
-   "A": 
+     "CNAME": [
+      {
+        "host": "matiasburgos",
+        "value": "zoho-verification=zb06827941.zmverify.zoho.com"
+      }
+    ],
+    "MX": [
+      "10 mx.zoho.com",
+      "20 mx2.zoho.com",
+      "50 mx3.zoho.com"
+    ],
+    "TXT": ["v=spf1 include:zoho.com ~all"]
+  },
  },
  "proxied": false
 }
